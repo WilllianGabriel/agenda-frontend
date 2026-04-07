@@ -28,4 +28,6 @@ Aplicação web de agenda telefônica com CRUD de contatos, desenvolvido com nod
 
 ## Como rodar o projeto
 
-´´´bashnpm installnpm run dev
+´´´bash
+npm install
+npm run dev
