@@ -31,5 +31,4 @@ Aplicação web de agenda telefônica com CRUD de contatos, desenvolvido com nod
 ´´´bash
 
 npm install
-
 npm run dev
